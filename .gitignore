@@ -21,6 +21,7 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+.idea
 
 # Dreamweaver added files
 _notes
@@ -36,7 +37,6 @@ dwsync.xml
 .CVS
 intermediate
 publish
-.idea
 
 # build script local files
 build/buildinfo.properties
